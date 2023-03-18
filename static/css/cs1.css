@@ -1,0 +1,16 @@
+h1
+{
+    background-color: deeppink;
+    background-image: none;
+    font-size: medium;
+    font-weight: lighter;
+    font-style: oblique;
+}
+body
+{
+    background-color: aqua;
+}
+ol
+{
+    font-style: normal;
+}
